@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    config:
+      enabled: false
+  application:
+    name: gateway
+eureka:
+  client:
+    enabled: false
